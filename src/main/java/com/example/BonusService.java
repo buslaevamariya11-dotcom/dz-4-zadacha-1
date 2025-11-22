@@ -1,4 +1,4 @@
-package com.example;
+package com.example.bonusservice;
 public class BonusService {
     public long calculate(long amount, boolean registered) {
         int Percent = registered ? 3 : 1;

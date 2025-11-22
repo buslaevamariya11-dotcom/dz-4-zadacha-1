@@ -1,3 +1,5 @@
+package com.example.bonusservice.test;
+
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions;
 
